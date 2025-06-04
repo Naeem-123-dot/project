@@ -10,3 +10,6 @@
 ### org  : B-SOFT
 ### Finishing time : 10:00
 ### class cancellation on certain  days
+### rainy days there will be class onlne
+### do the task 
+### finish the project
